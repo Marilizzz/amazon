@@ -1,0 +1,80 @@
+.b1{
+    background-color:rgb(35, 35, 49);
+    color: azure;
+    width: 1000px;
+    height: 60px;
+}
+
+#f3{
+    
+    background-color: azure;
+    color: black;
+}
+
+.b2{
+    background-color:rgb(62, 62, 83);
+    color: azure;
+    width: 2500px;
+    height: 50px;
+}
+.fondo{
+    width: 100%;
+        height: 80rem;
+        background-color: rgba(85, 135, 228, 0.555);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment:local;
+   
+}
+.heg{
+
+    margin-top: 200px;
+    height: 250px;
+    border-style:none ;
+
+}
+#f11{
+    margin-left: 40px;
+    width: 150px;
+    background-color:white;
+    
+}
+#f12{
+    margin-left: 40px;
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+
+}
+#f13{
+    margin-left: 40px;
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    
+
+}
+.hegh{
+
+    margin-top: 20px;
+    height: 250px;
+    border-style:none ;
+
+}
+#f14{
+    margin-left: 40px;
+    width: 150px;
+    background-color:white;
+    
+}
+#f15{
+    margin-left: 40px;
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+
+}
+#f16{
+    margin-left: 40px;
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    
+
+}
