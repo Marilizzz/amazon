@@ -7,8 +7,15 @@
 
 #f3{
     
+    background-color: rgb(35, 35, 49);
+    
+}
+#serch{
     background-color: azure;
     color: black;
+    width: 70px;
+    height: 20px;
+
 }
 
 .b2{
@@ -43,6 +50,7 @@
     margin-left: 40px;
     width: 150px;
     background-color: rgb(255, 255, 255);
+    
 
 }
 #f13{
@@ -78,3 +86,20 @@
     
 
 }
+#f17{
+    margin-left: 50px;
+    width: 150px;
+
+    margin-right: 10px;
+}
+
+
+
+.heg2{
+    margin-top: 30PX;
+    margin-left: 0px;
+    background-color: aliceblue;
+    width: 700PX;
+    height: 250px;
+}
+
